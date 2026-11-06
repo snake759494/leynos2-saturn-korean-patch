@@ -1,0 +1,23 @@
+# 게임 원본·산출물 (배포하지 않음)
+*.bin
+*.BIN
+*.cue
+*.xdelta
+disc/
+files.json
+tree.bin
+ip.bin
+
+# 글꼴·외부 실행 파일·이미지
+*.ttf
+*.otf
+*.bdf
+*.exe
+*.dll
+*.png
+fonts/
+shots/
+
+# 파이썬
+__pycache__/
+*.pyc
